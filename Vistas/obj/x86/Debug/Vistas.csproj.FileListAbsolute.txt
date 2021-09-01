@@ -1,0 +1,13 @@
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\bin\Debug\Vistas.exe
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\bin\Debug\Vistas.pdb
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\MainWindow.baml
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\WinLogin.baml
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\MainWindow.g.cs
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\WinLogin.g.cs
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\App.g.cs
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\Vistas.g.resources
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\Vistas.exe
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\Vistas\obj\x86\Debug\Vistas.pdb

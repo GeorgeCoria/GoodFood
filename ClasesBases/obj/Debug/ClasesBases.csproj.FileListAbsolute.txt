@@ -1,0 +1,4 @@
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\ClasesBases\bin\Debug\ClasesBases.dll
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\ClasesBases\bin\Debug\ClasesBases.pdb
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\ClasesBases\obj\Debug\ClasesBases.dll
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\ClasesBases\obj\Debug\ClasesBases.pdb

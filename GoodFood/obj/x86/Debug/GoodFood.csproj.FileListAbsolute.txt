@@ -1,0 +1,11 @@
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\bin\Debug\GoodFood.exe
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\bin\Debug\GoodFood.pdb
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\MainWindow.baml
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\MainWindow.g.cs
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\App.g.cs
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\GoodFood_MarkupCompile.cache
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\GoodFood.g.resources
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\GoodFood.Properties.Resources.resources
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\GoodFood.csproj.GenerateResource.Cache
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\GoodFood.exe
+d:\documentos de george\documents\visual studio 2010\Projects\GoodFood\GoodFood\obj\x86\Debug\GoodFood.pdb
